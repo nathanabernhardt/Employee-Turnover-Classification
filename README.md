@@ -1,1 +1,1 @@
-# Employee-Turnover-Classification
+This project utilizes human resources data to predict whether an employee will remain with the company or churn. Logistic Regression and Gradient Boosting Classification models are employed with the final model being selected based on cross validation scoring. Hyperparamter tuning is utilized to optimize model performance before fitting the final model to training data. Notebook sections include exploratory data analysis, visualization EDA, and machine learning. Finally, classification metrics are used to evaluate the final ML model.
